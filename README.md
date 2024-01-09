@@ -1,1 +1,1 @@
-# -cristianmihai01-cryptocurrency-website-starter
+# cyptocurrency-website-starter
